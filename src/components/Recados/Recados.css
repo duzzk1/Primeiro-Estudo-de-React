@@ -1,0 +1,15 @@
+.recados {
+  text-align: center;
+  padding: 32px;
+  background-color: #e8f8ff;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.recados h3 {
+  font-size: 32px;
+  border-bottom: 4px solid #82cffa;
+  display: inline-block;
+  padding-bottom: 8px;
+}
